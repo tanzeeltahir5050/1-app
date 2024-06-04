@@ -5,6 +5,7 @@ import Hero from './components/Hero'
 import Mid from './components/Mid'
 import Features from './components/Features'
 import Pricing from './components/Pricing'
+import Footer from './components/Footer'
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <Mid />
       <Features />
       <Pricing />
+      <Footer />
     </>
   )
 }

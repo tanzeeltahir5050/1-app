@@ -11,7 +11,7 @@ function Navbar() {
         <>
             <div className='flex items-center justify-between mx-12 my-12'>
                 <div className='flex items-center justify-center'>
-                    <img className='rounded-full mx-2' src="https://placehold.co/40x40/png" alt="" /><h1 className='text-2xl font-semibold'>TO DO</h1>
+                    <img className='rounded-full mx-2' src="https://placehold.co/60x60/png" alt="" /><h1 className='text-2xl font-semibold'>TO DO</h1>
                 </div>
                 <nav className='flex items-center justify-between'>
                     <ul className='flex items-center justify-center'>
